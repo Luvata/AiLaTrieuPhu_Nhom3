@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AiLaTrieuPhu_Nhom3</string>
+    <string name="setting">Cài đặt</string>đặt
+    <string name="play">Chơi</string>
+    <string name="instruction">Hướng dẫn</string>
+    <string name="ranking">Xếp hạng</string>
+    <string name="insert_name_label">Tên của bạn là:</string>
+    <string name="start_game">Bắt đầu</string>
+    <string name="your_id"></string>
+</resources>
