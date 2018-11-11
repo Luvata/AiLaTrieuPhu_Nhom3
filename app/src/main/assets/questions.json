@@ -1,0 +1,170 @@
+[
+  {
+    "Level": 1,
+    "Question": "Người ta thường nói: ",
+    "Answer1": " bạo vì tiền",
+    "Answer2": "Gạo",
+    "Answer3": "Tình",
+    "Answer4": "Game"
+  },
+  {
+    "Level": 1,
+    "Question": "Thức ăn nào sau đây thuộc nhóm thức ăn chứa nhiều bột đường",
+    "Answer1": "Gạo",
+    "Answer2": "Muối",
+    "Answer3": "Cá",
+    "Answer4": "Chuối"
+  },
+  {
+    "Level": 1,
+    "Question": "Ngôi chùa được đúc hoàn toàn bằng đồng tại Việt Nam",
+    "Answer1": "Chùa Đồng",
+    "Answer2": "Chùa Hương",
+    "Answer3": "Chùa một cột",
+    "Answer4": "Chùa bà"
+  },
+  {
+    "Level": 2,
+    "Question": "Đơn vị đo dung lượng bộ nhớ nào lớn nhất",
+    "Answer1": "TB",
+    "Answer2": "MB",
+    "Answer3": "GB",
+    "Answer4": "ACB"
+  },
+  {
+    "Level": 2,
+    "Question": "Hội hát quan họ nào được tổ chức từ 11 - 13 tháng Giêng Âm lịch hàng năm",
+    "Answer1": "Hội Lim",
+    "Answer2": "Hội múa cột",
+    "Answer3": "Hội chùa ",
+    "Answer4": "Hội chọi trâu"
+  },
+  {
+    "Level": 2,
+    "Question": "Một chốn... quê",
+    "Answer1": "Đôi",
+    "Answer2": "Tam",
+    "Answer3": "Tứ",
+    "Answer4": "Nhất"
+  },
+  {
+    "Level": 3,
+    "Question": "Cây ngay không sợ...",
+    "Answer1": "Đứng",
+    "Answer2": "Ngồi",
+    "Answer3": "Nằm",
+    "Answer4": "Trôi"
+  },
+  {
+    "Level": 3,
+    "Question": "Sat trong tiếng Anh là thứ mấy trong tuần",
+    "Answer1": "Thứ bảy",
+    "Answer2": "Chủ nhật",
+    "Answer3": "Thứ hai",
+    "Answer4": "Thứ năm"
+  },
+  {
+    "Level": 3,
+    "Question": "Bán buôn bán lẻ là phạm trù của ngành nào?",
+    "Answer1": "Thương nghiệp",
+    "Answer2": "Nông nghiệp",
+    "Answer3": "Công nghiệp",
+    "Answer4": "Dịch vụ"
+  },
+  {
+    "Level": 4,
+    "Question": "Trong các số do dưới đây",
+    "Answer1": " số đo nào bằng 25",
+    "Answer2": "08 km",
+    "Answer3": "25080m",
+    "Answer4": "250"
+  },
+  {
+    "Level": 5,
+    "Question": "Người đẹp vì lụa, ... tốt vì phân",
+    "Answer1": "Thóc",
+    "Answer2": "Lúa",
+    "Answer3": "Cây",
+    "Answer4": "Cỏ"
+  },
+  {
+    "Level": 6,
+    "Question": "Người đẹp vì lụa, ... tốt vì phân",
+    "Answer1": "Thóc",
+    "Answer2": "Lúa",
+    "Answer3": "Cây",
+    "Answer4": "Cỏ"
+  },
+  {
+    "Level": 7,
+    "Question": "Người đẹp vì lụa, ... tốt vì phân",
+    "Answer1": "Thóc",
+    "Answer2": "Lúa",
+    "Answer3": "Cây",
+    "Answer4": "Cỏ"
+  },
+  {
+    "Level": 8,
+    "Question": "Người đẹp vì lụa, ... tốt vì phân",
+    "Answer1": "Thóc",
+    "Answer2": "Lúa",
+    "Answer3": "Cây",
+    "Answer4": "Cỏ"
+  },
+  {
+    "Level": 9,
+    "Question": "Người đẹp vì lụa, ... tốt vì phân",
+    "Answer1": "Thóc",
+    "Answer2": "Lúa",
+    "Answer3": "Cây",
+    "Answer4": "Cỏ"
+  },
+  {
+    "Level": 10,
+    "Question": "Người đẹp vì lụa, ... tốt vì phân",
+    "Answer1": "Thóc",
+    "Answer2": "Lúa",
+    "Answer3": "Cây",
+    "Answer4": "Cỏ"
+  },
+  {
+    "Level": 11,
+    "Question": "Người đẹp vì lụa, ... tốt vì phân",
+    "Answer1": "Thóc",
+    "Answer2": "Lúa",
+    "Answer3": "Cây",
+    "Answer4": "Cỏ"
+  },
+  {
+    "Level": 12,
+    "Question": "Người đẹp vì lụa, ... tốt vì phân",
+    "Answer1": "Thóc",
+    "Answer2": "Lúa",
+    "Answer3": "Cây",
+    "Answer4": "Cỏ"
+  },
+  {
+    "Level": 13,
+    "Question": "Người đẹp vì lụa, ... tốt vì phân",
+    "Answer1": "Thóc",
+    "Answer2": "Lúa",
+    "Answer3": "Cây",
+    "Answer4": "Cỏ"
+  },
+  {
+    "Level": 14,
+    "Question": "Người đẹp vì lụa, ... tốt vì phân",
+    "Answer1": "Thóc",
+    "Answer2": "Lúa",
+    "Answer3": "Cây",
+    "Answer4": "Cỏ"
+  },
+  {
+    "Level": 15,
+    "Question": "Người đẹp vì lụa, ... tốt vì phân",
+    "Answer1": "Thóc",
+    "Answer2": "Lúa",
+    "Answer3": "Cây",
+    "Answer4": "Cỏ"
+  }
+]
